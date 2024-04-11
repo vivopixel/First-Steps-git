@@ -12,5 +12,7 @@ public class firstApp{
         int secondOP = result + 1;
 
         System.out.println(secondOP);
+
+        System.out.println("Finall number is: "+ secondOP);
     }
 }

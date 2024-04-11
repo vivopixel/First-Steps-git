@@ -14,5 +14,9 @@ public class firstApp{
         System.out.println(secondOP);
 
         System.out.println("Finall number is: "+ secondOP);
+
+        int thirdOP = secondOP * 5;
+
+        System.out.println("Additional operation is: "+ thirdOP);
     }
 }

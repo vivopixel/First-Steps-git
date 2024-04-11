@@ -8,5 +8,9 @@ public class firstApp{
         int result = myNum * otherNum;
 
         System.out.println(result);
+
+        int secondOP = result + 1;
+
+        System.out.println(secondOP);
     }
 }
